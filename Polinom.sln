@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polinom", "Polinom\Polinom.vcxproj", "{BAA55D34-E935-48A3-996F-878D86BC1AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA55D34-E935-48A3-996F-878D86BC1AFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAA55D34-E935-48A3-996F-878D86BC1AFA}.Debug|Win32.Build.0 = Debug|Win32
+		{BAA55D34-E935-48A3-996F-878D86BC1AFA}.Release|Win32.ActiveCfg = Release|Win32
+		{BAA55D34-E935-48A3-996F-878D86BC1AFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
